@@ -20,7 +20,8 @@ previously covered):
 `! @ # $ % ^ & * ( ) ? / " ' :`
 
 and it introduces the following keys:
-`+ - _ = > < { } ] [ \` ~ \ |`
+
+``+ - _ = > < { } ] [ ` ~ \ |``
 
 The first two lessons are review; the next six introduce the new keys,
 and the final three provide long-form practice.  Where possible, the
@@ -35,20 +36,20 @@ At the moment, the programming samples are biased towards languages with
 C-like syntax—please feel free to submit a pull request if you would
 like other languages to be featured more prominently.
 
-I submitted this lesson as a patch to the gtypist mailing list and recived
+I submitted this lesson as a patch to the gtypist mailing list and received
 positive feedback; it is possible that it will be included in the base
 installation at some point.  However, gtypist is not under extremely 
-active developmet, so I decided to post it here in the meantime.
+active development, so I decided to post it here in the meantime.
 
 # Installation 
-Running this lesson requires gtypist, which is avalible from nearly all 
+Running this lesson requires gtypist, which is available from nearly all 
 package managers of directly from the [gtypist website](https://www.gnu.org/software/gtypist/)
 
 After installing gtypist, you can run this file by following gtypist's 
-directions for running an external typing script.  Specfically, download
+directions for running an external typing script.  Specifically, download
 the `p.typ` file to a directory of your choice and then add
 the path to the file as a final argument to gtypist.  If you would 
-perfer not to type the full path to the script file, you can copy it
+prefer not to type the full path to the script file, you can copy it
 to the same directory that holds gtypist's other lessons (usually 
 `/usr/share/gtypist` or `/usr/local/share/gtypist`).  After doing so,
 you can run the lesson by supplying just the filename as a final argument
