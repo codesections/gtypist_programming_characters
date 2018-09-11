@@ -4,7 +4,7 @@ line, and is widely available for every distribution. I personally used
 it extensively when I switched from practicing law to programming and
 discovered that the keyboard was full of keys I'd basically never needed
 before.  (If you need convincing of the importance of typing speed to 
-programming, please see the post[Programming's Dirtiest Little
+programming, please see the post [Programming's Dirtiest Little
 Secret](https://steve-yegge.blogspot.com/2008/09/programmings-dirtiest-little-secret.html).
 
 
