@@ -349,8 +349,6 @@ S://Hello world in C#
  :    }
  :}
  :
- :
- :
  :// Hello world in Delphi
  :Program Hello_World;
  :
