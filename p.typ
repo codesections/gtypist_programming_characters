@@ -334,8 +334,13 @@ S:/* Hello world in C, K&R style */
  :    return 0;
  :}
  :
+ :<?php
+ :  // Hello world in PHP
+ :  echo 'Hello World!';
+ :?>
  :
- ://Hello world in C#
+I:(6) Try some more coding
+S://Hello world in C#
  :class HelloWorld
  :{
  :    static void Main()
@@ -344,11 +349,6 @@ S:/* Hello world in C, K&R style */
  :    }
  :}
  :
- :
- :<?php
- :  // Hello world in PHP
- :  echo 'Hello World!';
- :?>
  :
  :
  :// Hello world in Delphi
