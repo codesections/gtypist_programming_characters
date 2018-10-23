@@ -566,8 +566,8 @@ S:bool IsPalindrome(const char* psz)
  :        i++;
  :        j--;
  :    }
- :    return true;
  :
+ :    return true;
  :}
 
 I:(4) Try the same problem in C, using functions and pointers (part 1)
