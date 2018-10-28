@@ -335,7 +335,7 @@ S:/* Hello world in C, K&R style */
  :}
  :
  :
- ://Hello world in C#
+ :// Hello world in C#
  :class HelloWorld
  :{
  :    static void Main()
@@ -359,6 +359,7 @@ S:/* Hello world in C, K&R style */
  :Begin
  :  WriteLn('Hello World');
  :End.
+
 Q:Do you want to continue to lesson P7 [Y/N] ? 
 N:MENU
 
