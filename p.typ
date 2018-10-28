@@ -693,7 +693,7 @@ N:MENU
 *:PRACTICE_2
 B:Lesson P10
 I:(1) Try this excerpt from Doug Lea's malloc, written in C
-S:/* -----------------------  system deallocation -------------------------- */
+S:/* ------------------------ system deallocation -------------------------- */
  :
  :/* Unmap and unlink any mmapped segments that don't contain used chunks */
  :static size_t release_unused_segments(mstate m) {
