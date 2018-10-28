@@ -881,6 +881,7 @@ S:    if (char === '"') {
  :  }
  :  return tokens;
  :}
+ :
  :function parser(tokens) {
  :  let current = 0;
  :  function walk() {
@@ -1048,6 +1049,7 @@ S:function compiler(input) {
  :  let output = codeGenerator(newAst);
  :  return output;
  :}
+ :
  :module.exports = {
  :  tokenizer,
  :  parser,
