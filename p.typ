@@ -807,7 +807,7 @@ S:        else if (HAVE_MORECORE) {
  :      m->trim_check = MAX_SIZE_T;
  :  }
  :
- :  return (released != 0)? 1 : 0;
+ :  return (released != 0) ? 1 : 0;
  :}
 
 Q:Do you want to continue to lesson P11 [Y/N] ? 
