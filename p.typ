@@ -520,7 +520,6 @@ S:// match a valid phone number
  :// match an HTML tag
  :/^<([A-Za-z]+)([^<]+)*(?:>(.*)<\/\1>|\s+\/>)$/
 
-
 Q:Do you want to continue to lesson P9 [Y/N] ? 
 N:MENU
 
@@ -680,12 +679,11 @@ S:void reverse_string(char *string)
  :      first++;
  :      second++;
  :   }
- :   if( *first == '\0' && *second == '\0' )
+ :   if ( *first == '\0' && *second == '\0' )
  :      return 0;
  :   else
  :      return -1;
  :}
-
 
 Q:Do you want to continue to lesson P10 [Y/N] ? 
 N:MENU
