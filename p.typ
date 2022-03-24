@@ -210,7 +210,7 @@ S:The hyphen ("-") is used for compound words; the en dash,
  :you cannot use a true em dash, some people accept three 
  :hyphens ("---") instead. 
  :
- :If you cannot emphasise text by setting it in italic or by
+ :If you cannot emphasize text by setting it in italic or by
  :underlining it, you can show emphasis with underscores ("like
  :_this_").
 
