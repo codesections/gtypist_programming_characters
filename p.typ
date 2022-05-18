@@ -360,7 +360,7 @@ S:/* Hello world in C, K&R style */
  :  WriteLn('Hello World');
  :End.
 
-Q:Do you want to continue to lesson P7 [Y/N] ? 
+Q:Do you want to continue to lesson P6 [Y/N] ? 
 N:MENU
 
 
